@@ -11,16 +11,16 @@ function logShout(string) {
 }
 
 function sayHiToGrandma(string) {
-  if string.toLowerCase()?
+  string.toLowerCase()?
   return "I cant't hear you!"
 }
 
 function sayHiToGrandma(string) {
-  if string.toUpperCase()?
+  string.toUpperCase()?
   return "YES INDEED!"
 }
 
 function sayHiToGrandma(string) {
-  if string == "I love you, Grandma."
+  string == "I love you, Grandma."
   return "I love you, too."
 }
