@@ -11,12 +11,12 @@ function logShout(string) {
 }
 
 function sayHiToGrandma(string) {
-  string.toLowerCase()
+  string == lowercase
   return "I cant't hear you!"
 }
 
 function sayHiToGrandma(string) {
-  string.toUpperCase()
+  string == uppercase
   return "YES INDEED!"
 }
 
